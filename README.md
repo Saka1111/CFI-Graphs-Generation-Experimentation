@@ -92,8 +92,6 @@ The core functionality is encapsulated in the **CFI** class (`cfi.py`):
 
 ---
 
----
-
 ## References
 
 This project is based on the theoretical work of:
