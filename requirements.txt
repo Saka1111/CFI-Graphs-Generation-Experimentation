@@ -1,0 +1,8 @@
+flask
+networkx
+matplotlib
+io
+base64
+itertools
+typing
+json
